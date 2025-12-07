@@ -29,7 +29,7 @@ const otherProjects = [
     title: 'Data Analytics Dashboard',
     description: 'Interactive dashboard for visualizing complex datasets with filters and charts.',
     tech: ['Python', 'Plotly', 'Streamlit'],
-    github: 'https://github.com',
+    github: 'https://github.com/Ravisharma263/data-analytics-dashboard',
   },
   {
     title: 'E-Commerce Quick Deal Website',
